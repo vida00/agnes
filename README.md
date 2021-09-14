@@ -5,5 +5,5 @@
 • Subdomain Bruteforce
 • DNS Resolver
 • Port Scan - All ports / Top ports
+• Compile: gcc agnes.c -o agnes -lcrypt
 </pre>
-### Compile: gcc agnes.c -o agnes -lcrypt
