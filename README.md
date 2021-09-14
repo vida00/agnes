@@ -1,4 +1,4 @@
-# &#x2764; agnes
+# :rose: agnes
 ### A simple interactive tool, functions:
 <pre>
 • Hash Crack - Linux passwords with salt
